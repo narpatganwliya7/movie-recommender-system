@@ -3,6 +3,7 @@
 A production-ready **content-based movie recommendation system** built using Machine Learning and deployed as a web application using **Streamlit**.
 
 🔗 Live Demo: https://mrs-campusx-49a2591eec81.herokuapp.com/
+![Movie Recommender System Screenshot](screenshots/image_3.png)
 
 ---
 
