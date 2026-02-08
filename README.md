@@ -108,7 +108,7 @@ streamlit run app.py
 Narpat Ganwliya  
 
 GitHub: https://github.com/narpatganwliya7  
-LinkedIn: https://www.linkedin.com/
+LinkedIn: https://www.linkedin.com/in/narpat-ganwliya/
 
 ---
 
